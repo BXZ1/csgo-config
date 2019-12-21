@@ -7,7 +7,7 @@
   <a href="https://steamcommunity.com/id/zakizak01/">Steam Profile</a> |
   <a href="http://simpleradar.com/">Simple Radar</a> |
   <a href="http://csgobindsgenerator.com/">CS:GO Binds Generator</a> |
-  <a href="https://steamcommunity.com/id/zakizak01/myworkshopfiles/?appid=730&browsefilter=myfavorites">My Favourite Workshop Maps</a> |
+  <a href="https://github.com/WilliamRagstad/Font-Manager/releases">CS:GO Font Manager</a> |
   <a href="https://www.mruy.de/csgo-panorama-backgrounds/">Panorama Backgrounds</a></p>
 
 ### My Resolution > 4:3 1280x960
@@ -17,6 +17,8 @@
 ```
 > To input launch options, head over to Steam, right click on CSGO and go to properties. Hit **Set Launch Options** and a box will pop up.
 
+**-freq** < rate > This is the refresh rate of your monitor, This only makes sense if your monitors maximum refresh rate is higher than 60.
+
 **-threads** < number of threads > Download and run [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) To check how many threads your CPU has
 
 <p align="center">
@@ -24,7 +26,6 @@
   <img src="https://i.imgur.com/EdJFPuL.png">
 </p>
 
-**-freq** < rate > This is the refresh rate of your monitor, This only makes sense if your monitors maximum refresh rate is higher than 60.
 
 # Where to put the files ?
 ### csgo_zak.txt ( *Based on Text Color Mod by [BananaGaming](https://bananagaming.tv/textcolormod.php) and Edited by Me* )
