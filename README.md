@@ -23,6 +23,7 @@ Program Files\Steam\userdata\XXXXX\730\local\cfg
 > **XXXXX** – your Steam account ID
 > 1. Visit https://steamid.io and login or paste your steam profile URL
 > 2. look for steamID3 ( *that’s the name of your folder* )
+### 5. Launch CS:GO and type "auto" in the console
 
 # Binds and Aliases:
 | Key | Description |
