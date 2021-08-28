@@ -40,15 +40,15 @@ Program Files\Steam\userdata\XXXXX\730\local\cfg
 | F10 | Radio Chat "Death Sound" |
 | F11 | Radio Chat "Bomb is Going to Blow" (Can be annoying to other players) |
 | F12 | Screenshot Bind (Because i disabled steam overlay) |
-| 123 | Switch between Primary,Secondary,Knife (Press again to start inspecting infinitely) |
-| WASD | Movement (A and D will clear decals while moving)<br />(An option is available in [binds.cfg Line 9](https://github.com/BXZ1/csgo-config/blob/ee7c1a4db859125c0caf9e2f125c1b3d2ff69e7e/binds.cfg#L9) to switch between QWERTY and AZERTY Layouts) |
+| 123 | Switch between Primary, Secondary, Knife (Press again to start inspecting infinitely) |
+| WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 9](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L9) to switch between QWERTY and AZERTY Layouts) |
 | B | Buy Menu |
-| E | Use (Will also clear decals) |
+| E | Use |
 | F | Open radial weapon-wheel for selecting nades only |
 | G | Drop Weapon |
 | M | Team Selection Menu |
 | N | Jump Throw |
-| R | Reload Weapon (Will also clear decals) |
+| R | Reload Weapon |
 | T | Grafitti Menu (Will also inspect the current weapon) |
 | U | Team Chat |
 | Y | Chat |
@@ -61,8 +61,8 @@ Program Files\Steam\userdata\XXXXX\730\local\cfg
 | X | Radio Menu 2 |
 | C | Radio Menu 3 |
 | SPACE | Jump+Duck |
-| CTRL | Duck (An option is available in [binds.cfg Line 14](https://github.com/BXZ1/csgo-config/blob/ee7c1a4db859125c0caf9e2f125c1b3d2ff69e7e/binds.cfg#L14) to switch between CTRL and ALT) |
-| ALT | Drop C4 (An option is available in [binds.cfg Line 14](https://github.com/BXZ1/csgo-config/blob/ee7c1a4db859125c0caf9e2f125c1b3d2ff69e7e/binds.cfg#L14) to switch between CTRL and ALT) |
+| CTRL | Duck (An option is available in [binds.cfg Line 14](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L14) to switch between CTRL and ALT) |
+| ALT | Drop C4 (An option is available in [binds.cfg Line 14](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L14) to switch between CTRL and ALT) |
 | SHIFT | Walk |
 | TAB | Stats and Scores |
 | CAPSLOCK | Toggle noclip |
@@ -111,7 +111,7 @@ Program Files\Steam\userdata\XXXXX\730\local\cfg
 | ```exo``` | Give Exojump Boots |
 | ```shot``` | Give HealthShot |
 | ```tag``` | Give TAG Grenade |
-| ```breach``` | Give Breach Charge" |
+| ```breach``` | Give Breach Charge |
 | ```shield``` | Give Shield |
 | ```suit``` | Equip Heavy Assault Suit |
 | ```chick``` | Spawn Chicken |
