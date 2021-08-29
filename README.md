@@ -3,29 +3,35 @@
 </p>
 
 # Installation Steps:
+
 ### 1. Launch Options
 ```
 -high -novid -nojoy +mat_queue_mode 2 -tickrate 128 -language zak +exec autoexec
 ```
 > To input launch options, head over to Steam, right click on CSGO and go to properties.
+
 ### 2. csgo_zak.txt
 ```
 Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
 ```
+
 ### 3. radial_quickinventory.txt
 ```
 Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo
 ```
+
 ### 4. autoexec.cfg, binds.cfg, misc.cfg, practice.cfg, pvp.cfg, video.txt
 ```
 Program Files\Steam\userdata\XXXXX\730\local\cfg
 ```
 > **XXXXX** – your Steam account ID
-> 1. Visit https://steamid.io and login or paste your steam profile URL
+> 1. Visit [STEAMID I/O](https://steamid.io) and login or paste your steam profile URL
 > 2. look for steamID3 ( *that’s the name of your folder* )
+
 ### 5. Launch CS:GO and type "auto" in the console
 
 # Binds:
+
 | Key | Description |
 | --- | --- |
 | F1 | Play [SLAM](https://github.com/SilentSys/SLAM) selected sound (Also used for voting) |
@@ -87,7 +93,9 @@ Program Files\Steam\userdata\XXXXX\730\local\cfg
 | NUMPAD ./DEL | Rethrow last grenade (In your server) |
 | NUMPAD * | type ಠ_ಠ in chat |
 | NUMPAD / | type ¯\\_(ツ)_/¯ in chat |
+
 # Aliases:
+
 | Alias | Description |
 | --- | --- |
 | ```Slam``` | Execute [SLAM](https://github.com/SilentSys/SLAM) |
@@ -158,11 +166,13 @@ Program Files\Steam\userdata\XXXXX\730\local\cfg
 | ```awp``` | Set **AWP** as the Default Primary for Ts and CTs in your server |
 | ```g3``` | Set **G3SG1** as the Default Primary for Ts and CTs in your server |
 | ```scar``` | Set **SCAR-20** as the Default Primary for Ts and CTs in your server |
+
 <br>
 <p align="center">
   <a href="https://steamcommunity.com/id/BXZ1">My Steam Profile</a> |
   <a href="https://readtldr.gg/simpleradar">Simple Radar</a> |
-  <a href="https://github.com/WilliamRagstad/Font-Manager/releases">CS:GO Font Manager</a> |
-  <a href="https://www.mruy.de/csgo-panorama-backgrounds">Panorama Backgrounds</a></p>
-<p align="center">
-  <b>Check out my Counter Strike 1.6 <a href="https://gist.github.com/zakizak01/2c1bee8f4cda2b0bbef9dbcb4d5d503a">Config</a></b></p>
+  <a href="https://github.com/WilliamRagstad/Font-Manager/releases">CS:GO Font Manager</a> ( <a href="https://www.dafont.com/stanberry.font">My Font</a> ) |
+  <a href="https://www.mruy.de/csgo-panorama-backgrounds">Panorama Backgrounds</a>
+<br>
+<br>
+  <b>Check out my Counter Strike 1.6 <a href="https://gist.github.com/BXZ1/2c1bee8f4cda2b0bbef9dbcb4d5d503a">Config</a></b></p>
