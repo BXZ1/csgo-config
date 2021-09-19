@@ -32,11 +32,11 @@
 | F10 | Radio Chat "Death Sound" |
 | F11 | Radio Chat "Bomb is Going to Blow" (Can be annoying to other players) |
 | F12 | Screenshot Bind (Because i disabled steam overlay) |
-| 123 | Switch between Primary, Secondary, Knife (Press again to start inspecting infinitely) |
+| 123 | Switch between Primary, Secondary, Knife |
 | WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 8](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L8) to switch between QWERTY and AZERTY Layouts) |
 | B | Buy Menu |
 | E | Use |
-| F | Open radial weapon-wheel for selecting nades only |
+| F | Open radial-weapon-wheel for selecting nades only<br />(An option is available in [binds.cfg Line 18](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L18) to switch between inspect-weapon or the radial-weapon-wheel) |
 | G | Drop Weapon |
 | M | Team Selection Menu |
 | N | Jump Throw |
@@ -97,6 +97,8 @@
 | `pvp` | `exec pvp` (Start pvp mode) |
 | `misc` | `exec misc` (Show misc commands in console) |
 | `snow` | Give Snowball |
+| `snowpile` | Spawn Snowball pile |
+| `skull` | Spawn Skull |
 | `barrel` | Spawn Exploding Barrel |
 | `drone` | Spawn Drone |
 | `turret` | Spawn Turret |
