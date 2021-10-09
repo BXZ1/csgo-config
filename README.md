@@ -102,6 +102,7 @@
 | `barrel` | Spawn Exploding Barrel |
 | `drone` | Spawn Drone |
 | `turret` | Spawn Turret |
+| `jammer` | Spawn Radar Jammer |
 | `tablet` | Give Tablet |
 | `mine` | Give BumpMine |
 | `exo` | Give Exojump Boots |
