@@ -1,36 +1,16 @@
+// Edited By Z.A.K : Steamcommunity.com/id/BXZ1 | Github.com/BXZ1/csgo-config
 
 "settings"
 {
-	// Maximum weapon slots supported in the wheel is 10
 
-	// the left most edge of slot 0 starts on the wheel here and goes around clockwise
-	// angle 0 is north, angle 180 is south
-	starting_angle		0
+	TOP_SLOT	DECOYGRENADE
 
-	// 7 slots split equally is a wedge size of 51.42855
+	// SLOT NAME		// WEDGE WEIGHT	
 
-	// Place slots/weapons in the order you want them to show up
-	// SLOT NAME		// WEDGE WIDTH (must add up to 360)	
-	FLASHBANG 			90
-	HEGRENADE 			90
-	SMOKEGRENADE 		90
-	MOLOTOV 			90
+	DECOYGRENADE			1.0
+	FLASHBANG 			5.0
+	HEGRENADE 			5.0
+	SMOKEGRENADE 			5.0
+	MOLOTOV 			5.0
 
-	//----- VALID SLOT NAMES -----//
-	
-	// [slot names]
-	//PISTOL	
-	//KNIFE
-	//RIFLE	
-	//UTILITY	
-	//BOOSTS
-	//C4
-	//GRENADES
-
-	// [individual items]
-	//FLASHBANG
-	//HEGRENADE
-	//SMOKEGRENADE
-	//DECOYGRENADE
-	//MOLOTOV
 }
