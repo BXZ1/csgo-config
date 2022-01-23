@@ -36,7 +36,7 @@
 | WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 8](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L8) to switch between QWERTY and AZERTY Layouts) |
 | B | Buy Menu |
 | E | Use |
-| F | Open radial-weapon-wheel for selecting nades only<br />(An option is available in [binds.cfg Line 18](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L18) to switch between inspect-weapon or the radial-weapon-wheel) |
+| F | Open the radial menu for selecting throwables<br /><img src="https://i.imgur.com/fj9bcc1.png"><br />(An option is available in [binds.cfg Line 18](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L18) to switch between inspect-weapon or the radial menu) |
 | G | Drop Weapon |
 | M | Team Selection Menu |
 | N | Jump Throw |
