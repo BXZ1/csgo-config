@@ -14,7 +14,7 @@
 * `autoexec.cfg` `binds.cfg` `misc.cfg` `practice.cfg` `pvp.cfg` `video.txt` > Steam\userdata\ **XXXXX** \730\local\cfg
 >**XXXXX** = Your Steam Account ID <br>1. Visit [STEAMID I/O](https://steamid.io) and login or paste your steam profile URL <br>2. Look for steamID3 ( *that’s the name of your folder* )
 
-### 3. Launch CS:GO and type `auto` in the console
+### 3. Launch CS:GO and type `apply` in the console
 
 # Binds:
 
@@ -32,7 +32,7 @@
 | F10 | Radio Chat "Death Sound" |
 | F11 | Radio Chat "Bomb is Going to Blow" (Can be annoying to other players) |
 | F12 | Screenshot Bind (Because i disabled steam overlay) |
-| 123 | Switch between Primary, Secondary, Knife |
+| 1234 | Switch between Primary, Secondary, Knife, Nades |
 | WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 8](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L8) to switch between QWERTY and AZERTY Layouts) |
 | B | Buy Menu |
 | E | Use |
@@ -92,6 +92,7 @@
 | `c` | Clear console |
 | `hud` | Toggle HUD (This alias enables `sv_cheats` in order to hide HUD) |
 | `sv` | Toggle `sv_cheats` |
+| `apply` | Apply the config |
 | `auto` | `exec autoexec` |
 | `pract` | `exec practice` (Start practice mode) |
 | `pvp` | `exec pvp` (Start pvp mode) |
@@ -113,8 +114,9 @@
 | `suit` | Equip Heavy Assault Suit |
 | `chick` | Spawn Chicken |
 | `c4` | Give C4 |
-| `knives` | Drop all CS:GO knives below the player (Type `ent_fire weapon_knife addoutput "classname weapon_knifegg"` and `mp_drop_knife_enable 1` to be able to pick them up |
-| `melee` | Drop all Danger Zone melee weapons below the player (Type `ent_fire weapon_melee addoutput "classname weapon_knifegg"` and `mp_drop_knife_enable 1` to be able to pick them up |
+| `pc4` | Spawn activated C4 (10s countdown) |
+| `knives` | Spawn all CS:GO knives on the ground |
+| `melee` | Spawn all Danger Zone melees on the ground |
 | `bun` | Enable Auto bunny hopping in your server |
 | `armor` | Equip Armor to all players in your server everytime they spawn |
 | `helmet` | Equip Armor+Helmet to all players in your server everytime they spawn |
