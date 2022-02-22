@@ -26,11 +26,11 @@
 | F4 | Buy Smoke, Flash, HE, Molotov/Incendiary |
 | F5 | Open Radio Wheel 1 |
 | F6 | Open Radio Wheel 2 |
-| F7 | Toggle Mute Enemy or Team messages (3 modes available) |
+| F7 | Toggle Mute Enemy Chat |
 | F8 | Call timeout |
-| F9 | Radio Chat "Guardian Victory Sound" |
-| F10 | Radio Chat "Death Sound" |
-| F11 | Radio Chat "Bomb is Going to Blow" (Can be annoying to other players) |
+| F9 | Type ( ͡° ͜ʖ ͡°) in chat |
+| F10 | Type ¯\\_(ツ)_/¯ in chat |
+| F11 | Type ಠ_ಠ in chat |
 | F12 | Screenshot Bind (Because i disabled steam overlay) |
 | 1234 | Switch between Primary, Secondary, Knife, Throwables |
 | WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 15](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L11-L23) to switch between QWERTY and AZERTY Layouts) |
@@ -45,10 +45,10 @@
 | U | Team Chat |
 | Y | Chat |
 | V | Voice Key |
-| H | Radio Chat "Dead/Killed Enemy" |
+| H | Radio Chat "Cover Me" |
 | J | Radio Chat "Sorry" |
-| K | Radio Chat "Shhh.. Keep Quiet" |
-| L | Radio Chat "Last Man Standing" |
+| K | Radio Chat "Enemy Down" |
+| L | Radio Chat "Bomb is Going to Blow" (Can be annoying to other players) |
 | Z | Radio Menu 1 |
 | X | Radio Menu 2 |
 | C | Radio Menu 3 |
@@ -77,8 +77,6 @@
 | NUMPAD 2 | Allow all players in your server to buy everywhere in the map |
 | NUMPAD 3 | Simulate grenade trajectory in your server |
 | NUMPAD ./DEL | Rethrow last grenade (In your server) |
-| NUMPAD * | Type ಠ_ಠ in chat |
-| NUMPAD / | Type ¯\\_(ツ)_/¯ in chat |
 
 # Aliases:
 
