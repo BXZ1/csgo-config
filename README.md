@@ -33,7 +33,7 @@
 | F11 | Radio Chat "Bomb is Going to Blow" (Can be annoying to other players) |
 | F12 | Screenshot Bind (Because i disabled steam overlay) |
 | 1234 | Switch between Primary, Secondary, Knife, Throwables |
-| WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 18](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L11-L23) to switch between QWERTY and AZERTY Layouts) |
+| WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 15](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L11-L23) to switch between QWERTY and AZERTY Layouts) |
 | B | Buy Menu |
 | E | Use |
 | F | Open the radial menu for selecting throwables<br /><img src="https://i.imgur.com/fj9bcc1.png"><br />(An option is available in [binds.cfg Line 21](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L11-L23) to switch between inspect-weapon or the radial menu) |
