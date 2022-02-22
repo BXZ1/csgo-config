@@ -33,10 +33,10 @@
 | F11 | Radio Chat "Bomb is Going to Blow" (Can be annoying to other players) |
 | F12 | Screenshot Bind (Because i disabled steam overlay) |
 | 1234 | Switch between Primary, Secondary, Knife, Throwables |
-| WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 11](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L11) to switch between QWERTY and AZERTY Layouts) |
+| WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 12](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L12) to switch between QWERTY and AZERTY Layouts) |
 | B | Buy Menu |
 | E | Use |
-| F | Open the radial menu for selecting throwables<br /><img src="https://i.imgur.com/fj9bcc1.png"><br />(An option is available in [binds.cfg Line 17](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L17) to switch between inspect-weapon or the radial menu) |
+| F | Open the radial menu for selecting throwables<br /><img src="https://i.imgur.com/fj9bcc1.png"><br />(An option is available in [binds.cfg Line 12](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L12) to switch between inspect-weapon or the radial menu) |
 | G | Drop Weapon |
 | M | Team Selection Menu |
 | N | Jump Throw |
@@ -53,8 +53,8 @@
 | X | Radio Menu 2 |
 | C | Radio Menu 3 |
 | SPACE | Jump+Duck |
-| CTRL | Duck (An option is available in [binds.cfg Line 14](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L14) to switch between CTRL and ALT) |
-| ALT | Drop C4 (An option is available in [binds.cfg Line 14](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L14) to switch between CTRL and ALT) |
+| CTRL | Duck (An option is available in [binds.cfg Line 12](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L12) to switch between CTRL and ALT) |
+| ALT | Drop C4 (An option is available in [binds.cfg Line 12](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L12) to switch between CTRL and ALT) |
 | SHIFT | Walk |
 | TAB | Stats and Scores |
 | CAPSLOCK | Toggle noclip |
