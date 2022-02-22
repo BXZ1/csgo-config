@@ -10,7 +10,7 @@
 
 ### 2. [Download](https://github.com/BXZ1/csgo-config/zipball/master) the config and extract the following files
 * `csgo_zak.txt` > Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
-* `radial_quickinventory.txt` > Steam\steamapps\common\Counter-Strike Global Offensive\csgo
+* `radial_custom.txt` > Steam\steamapps\common\Counter-Strike Global Offensive\csgo
 * `autoexec.cfg` `binds.cfg` `misc.cfg` `practice.cfg` `pvp.cfg` `video.txt` > Steam\userdata\ **XXXXX** \730\local\cfg
 >**XXXXX** = Your Steam Account ID <br>1. Visit [STEAMID I/O](https://steamid.io) and login or paste your steam profile URL <br>2. Look for steamID3 ( *that’s the name of your folder* )
 
@@ -32,11 +32,11 @@
 | F10 | Radio Chat "Death Sound" |
 | F11 | Radio Chat "Bomb is Going to Blow" (Can be annoying to other players) |
 | F12 | Screenshot Bind (Because i disabled steam overlay) |
-| 1234 | Switch between Primary, Secondary, Knife, Nades |
-| WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 8](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L8) to switch between QWERTY and AZERTY Layouts) |
+| 1234 | Switch between Primary, Secondary, Knife, Throwables |
+| WASD | Movement (Will clear decals while moving)<br />(An option is available in [binds.cfg Line 11](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L11) to switch between QWERTY and AZERTY Layouts) |
 | B | Buy Menu |
 | E | Use |
-| F | Open the radial menu for selecting throwables<br /><img src="https://i.imgur.com/fj9bcc1.png"><br />(An option is available in [binds.cfg Line 18](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L18) to switch between inspect-weapon or the radial menu) |
+| F | Open the radial menu for selecting throwables<br /><img src="https://i.imgur.com/fj9bcc1.png"><br />(An option is available in [binds.cfg Line 17](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L17) to switch between inspect-weapon or the radial menu) |
 | G | Drop Weapon |
 | M | Team Selection Menu |
 | N | Jump Throw |
@@ -53,8 +53,8 @@
 | X | Radio Menu 2 |
 | C | Radio Menu 3 |
 | SPACE | Jump+Duck |
-| CTRL | Duck (An option is available in [binds.cfg Line 13](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L13) to switch between CTRL and ALT) |
-| ALT | Drop C4 (An option is available in [binds.cfg Line 13](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L13) to switch between CTRL and ALT) |
+| CTRL | Duck (An option is available in [binds.cfg Line 14](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L14) to switch between CTRL and ALT) |
+| ALT | Drop C4 (An option is available in [binds.cfg Line 14](https://github.com/BXZ1/csgo-config/blob/master/binds.cfg#L14) to switch between CTRL and ALT) |
 | SHIFT | Walk |
 | TAB | Stats and Scores |
 | CAPSLOCK | Toggle noclip |
