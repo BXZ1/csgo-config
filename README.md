@@ -95,9 +95,12 @@
 | `pract` | `exec practice` (Start practice mode) |
 | `pvp` | `exec pvp` (Start pvp mode) |
 | `misc` | `exec misc` (Show misc commands in console) |
+| `del` | Delete entity |
 | `snow` | Give Snowball |
 | `snowpile` | Spawn Snowball pile |
 | `skull` | Spawn Skull |
+| `coin` | Spawn Opration Coin |
+| `hostage` | Spawn Hostage |
 | `barrel` | Spawn Exploding Barrel |
 | `drone` | Spawn Drone |
 | `turret` | Spawn Turret |
